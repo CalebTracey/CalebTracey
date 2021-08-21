@@ -17,4 +17,4 @@ Hi I'm Caleb Tracey. Yes, I code! Lately I have been working with React, Spring 
 - Spring Boot <code><img height="20" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></code>
 - PostgreSQL <code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code> -->
 
-Other than coding, I love playing guitar, writing/recording music, hanging out with my cat, getting outside, and doing carpentry projects.
+Besides than coding, I love playing guitar, writing/recording music, hanging out with my cat, getting outside, and doing carpentry projects.
