@@ -17,4 +17,4 @@ Lately I've been working with Go, Spring Boot, and React.
 - Spring Boot <code><img height="20" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></code>
 - PostgreSQL <code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code> -->
 
-Aside from coding, I love playing guitar, writing/recording music, hanging out with my cat, getting outside, and doing carpentry projects.
+Besides coding, I love playing guitar, writing/recording music, hanging out with my cat, getting outside, and doing carpentry projects.
