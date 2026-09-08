@@ -1,1 +1,1 @@
-I'm Caleb, a Go developer based in Bridgton, Maine
+I'm Caleb, a Go developer based in Brunswick, Maine
